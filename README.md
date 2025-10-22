@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Vojtěch Baudyš
 
-I'm a **Business with IT** student at **TUD**, passionate about **software development, Full Stack Engineering, and digital marketing**.
+I'm a **Business** student at **DCU**, passionate about **software development, Full Stack Engineering, and digital marketing**.
 
 ### 🚀 About Me
-- 🎓 Studying **Business with IT** at TUD.
+- 🎓 Studying **Business** at DCU.
 - 💻 Passionate about **Web Development**, **Software Engineering**, **Full Stack Engineering**, and **Digital Marketing**.
 - 🌱 Always learning and exploring new technologies.
 - 💡 Member of **Codú community**.
