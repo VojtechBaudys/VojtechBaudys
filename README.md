@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Vojtěch Baudyš
+## Hi there 👋 I'm Vojtech Baudys
 
 I'm a **Business** student at **DCU**, passionate about **software development, Full Stack Engineering, and digital marketing**.
 
